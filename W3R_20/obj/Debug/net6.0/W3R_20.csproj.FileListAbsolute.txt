@@ -1,0 +1,15 @@
+V:\Csharp_Modules\W3R_20\bin\Debug\net6.0\W3R_20.exe
+V:\Csharp_Modules\W3R_20\bin\Debug\net6.0\W3R_20.deps.json
+V:\Csharp_Modules\W3R_20\bin\Debug\net6.0\W3R_20.runtimeconfig.json
+V:\Csharp_Modules\W3R_20\bin\Debug\net6.0\W3R_20.dll
+V:\Csharp_Modules\W3R_20\bin\Debug\net6.0\W3R_20.pdb
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.csproj.AssemblyReference.cache
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.GeneratedMSBuildEditorConfig.editorconfig
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.AssemblyInfoInputs.cache
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.AssemblyInfo.cs
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.csproj.CoreCompileInputs.cache
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.dll
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\refint\W3R_20.dll
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.pdb
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\W3R_20.genruntimeconfig.cache
+V:\Csharp_Modules\W3R_20\obj\Debug\net6.0\ref\W3R_20.dll
