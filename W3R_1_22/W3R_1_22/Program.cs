@@ -1,4 +1,8 @@
-﻿class Program
+﻿/*
+ * Write a C# program to check if the given integer is within 20 of 100 or 200.
+*/
+
+class Program
 {
     public static bool check(int num)
     {

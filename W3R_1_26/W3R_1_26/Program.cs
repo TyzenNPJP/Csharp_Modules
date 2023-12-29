@@ -1,4 +1,8 @@
-﻿class Program
+﻿/*
+ * Write a C# program to compute the sum of the first 500 prime numbers.
+*/
+
+class Program
 {
     public static void Function()
     {

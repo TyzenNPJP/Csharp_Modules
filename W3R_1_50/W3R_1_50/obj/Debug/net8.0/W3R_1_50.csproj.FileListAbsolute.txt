@@ -1,0 +1,15 @@
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\bin\Debug\net8.0\W3R_1_50.exe
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\bin\Debug\net8.0\W3R_1_50.deps.json
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\bin\Debug\net8.0\W3R_1_50.runtimeconfig.json
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\bin\Debug\net8.0\W3R_1_50.dll
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\bin\Debug\net8.0\W3R_1_50.pdb
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.AssemblyInfoInputs.cache
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.AssemblyInfo.cs
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.csproj.CoreCompileInputs.cache
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.sourcelink.json
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.dll
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\refint\W3R_1_50.dll
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.pdb
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\W3R_1_50.genruntimeconfig.cache
+T:\CODE\Csharp_Modules\W3R_1_50\W3R_1_50\obj\Debug\net8.0\ref\W3R_1_50.dll

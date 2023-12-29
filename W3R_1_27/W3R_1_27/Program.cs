@@ -1,4 +1,8 @@
-﻿class Program
+﻿/*
+ * Write a C# program and compute the sum of an integer's digits.
+*/
+
+class Program
 {
     public static int Function(int num)
     {

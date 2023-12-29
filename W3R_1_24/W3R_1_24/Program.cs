@@ -1,9 +1,12 @@
-﻿using System.Diagnostics.Tracing;
+﻿/*
+ * Write a C# program to find the longest word in a string.
+*/
 
 class Program
 {
     public static string Function (string line)
     {
+        // Splits words based on space
         string[] words = line.Split(new[] { " " }, StringSplitOptions.None);
 
         string l_word;

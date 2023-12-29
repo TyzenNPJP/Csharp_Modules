@@ -1,4 +1,8 @@
-﻿class Program
+﻿/*
+ * Write a C# program to convert a given string into lowercase. 
+*/
+
+class Program
 {
     public static string Function(string str1)
     {

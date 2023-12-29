@@ -1,4 +1,8 @@
-﻿class Program
+﻿/*
+ * Write a C# program to print odd numbers from 1 to 99. Prints one number per line.
+*/
+
+class Program
 {
     public static void Function()
     {
