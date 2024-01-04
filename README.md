@@ -1,7 +1,5 @@
 The above C# modules are worked on from the website below.
 
-------------------------------------------------------------------------------------
-
 W3R
 https://www.w3resource.com/csharp-exercises/basic/index.php
 
