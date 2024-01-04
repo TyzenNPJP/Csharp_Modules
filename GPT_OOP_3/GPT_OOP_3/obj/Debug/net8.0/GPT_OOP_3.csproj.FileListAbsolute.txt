@@ -1,0 +1,15 @@
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\bin\Debug\net8.0\GPT_OOP_3.exe
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\bin\Debug\net8.0\GPT_OOP_3.deps.json
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\bin\Debug\net8.0\GPT_OOP_3.runtimeconfig.json
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\bin\Debug\net8.0\GPT_OOP_3.dll
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\bin\Debug\net8.0\GPT_OOP_3.pdb
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.GeneratedMSBuildEditorConfig.editorconfig
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.AssemblyInfoInputs.cache
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.AssemblyInfo.cs
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.csproj.CoreCompileInputs.cache
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.sourcelink.json
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.dll
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\refint\GPT_OOP_3.dll
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.pdb
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\GPT_OOP_3.genruntimeconfig.cache
+T:\CODE\Csharp_Modules\GPT_OOP_3\GPT_OOP_3\obj\Debug\net8.0\ref\GPT_OOP_3.dll
